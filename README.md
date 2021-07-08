@@ -15,21 +15,26 @@ Initailly we need to enter the _Name_ and _Email id_. Once these details are ent
 
 ## Project View
 
-| Adding data | Removing Data |
-| :---------: | :-----------: |
+Addind data
 
-| ![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/add.jpg) | ![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/remove.jpg) |
+![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/add.jpg)
+
+Removing data
+
+![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/remove.jpg) |
 
 ## Local storage
 
-| Before removing | After removing |
-| :-------------: | :------------: |
+Before Removing
+![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/addlocal.jpg)
 
-![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/addlocal.jpg) | ![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/removelocal.jpg)
+After Removing
+
+![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/removelocal.jpg)
 
 ## Future development
 
-This project will be futher improved by using **React router** and the updated project using this concept will uploaded here very soon.
+### This project will be futher improved by using **React router** and the updated project using this concept will uploaded here very soon.
 
 ## Getting Started with Create React App
 
