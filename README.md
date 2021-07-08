@@ -16,14 +16,14 @@ Initailly we need to enter the _Name_ and _Email id_. Once these details are ent
 ## Project View
 
 | Adding data | Removing Data |
-| ----------- | ------------- |
+| :---------: | :-----------: |
 
 | ![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/add.jpg) | ![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/remove.jpg) |
 
 ## Local storage
 
 | Before removing | After removing |
-| --------------- | -------------- |
+| :-------------: | :------------: |
 
 | ![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/addlocal.jpg) | ![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/removelocal.jpg) |
 
