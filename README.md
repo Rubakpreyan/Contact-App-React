@@ -27,7 +27,7 @@ Removing data
 
 Before Removing
 ![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/addlocal.jpg)
-
+()
 After Removing
 
 ![image](https://github.com/Rubakpreyan/Contact-App-React/blob/main/Screenshots/removelocal.jpg)
